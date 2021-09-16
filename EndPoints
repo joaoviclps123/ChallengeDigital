@@ -1,1 +1,15 @@
+Cadastrar tipo de produto
+Cadastrar cliente pessoa fisíca
+Delelar cliente pessoa fisíca por CPF
+Buscar cliente pessoa fisíca
+Buscar cliente pessoa fisíca por CPF
+Alterar cliente pessoa fisíca
+Cadastrar cliente pessoa jurídica
+Buscar cliente pessoa jurídica
+Buscar cliente pessoa jurídica por CNPJ
+Alterar cliente pessoa jurídica
+Deletar cliente pessoa jurídica por CPF
+Cadastrar produto
+Buscar produto
+Alterar produto
 
